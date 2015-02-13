@@ -10,12 +10,14 @@ cupid character ----
 	-Idle
 	-Death
 
-Half heart ----
+Half heart ---- 
+	-Face 2d animation
 
 
 
 Full heart ----
-
+	- Face 2d animation
+	
 
 
 - Environment Models
