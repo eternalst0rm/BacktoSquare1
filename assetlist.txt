@@ -1,0 +1,27 @@
+
+-Gameplay Models
+
+Bow and Arrow ---- 
+
+
+cupid character ----
+- Character Animations
+	-Fire
+	-Reload
+	-Idle
+
+Half heart ----
+
+
+Full heart ----
+
+
+- Blueprint list
+
+Arrow Damage
+
+
+
+Character Anim Blueprints
+
+
