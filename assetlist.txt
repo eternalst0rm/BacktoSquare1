@@ -3,25 +3,58 @@
 
 Bow and Arrow ---- 
 
-
 cupid character ----
-- Character Animations
+ - Character Animations
 	-Fire
 	-Reload
 	-Idle
+	-Death
 
 Half heart ----
+
 
 
 Full heart ----
 
 
+
+- Environment Models
+
+ Mountain Scape
+
+ Rocks
+
+ Castle
+
+
+
 - Blueprint list
 
-Arrow Damage
+Health Blueprint
 
+
+Arrow Damage
 
 
 Character Anim Blueprints
 
 
+Heart AI System
+
+
+
+
+- Sounds
+Arrow Pop Sound
+
+
+Cheering Ambiance Music
+
+
+- Particle Systems
+
+
+Sparkels
+
+
+Mini Hearts
